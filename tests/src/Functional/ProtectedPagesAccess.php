@@ -16,7 +16,7 @@ class ProtectedPagesAccess extends BrowserTestBase {
    *
    * @var array
    */
-  public static $modules = ['node', 'protected_pages'];
+  protected static $modules = ['node', 'protected_pages'];
 
   /**
    * A user with permission to 'access protected page password screen'.

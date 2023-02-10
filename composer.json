@@ -1,0 +1,10 @@
+{
+  "name": "drupal/protected_pages",
+  "description": "protected_pages",
+  "type": "drupal-module",
+  "homepage": "http://drupal.org/project/protected_pages",
+  "require" : {
+    "drupal/core": "^9.4 || ^10"
+  },
+  "license": "GPL-2.0-or-later"
+}
